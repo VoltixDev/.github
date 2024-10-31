@@ -26,4 +26,4 @@ We maintain high data safety standards, and as such we use [AES-256](https://en.
 Data is usually stored in either JSON or MySQL, depending on who is assisting you.
 
 ![Built with MD](https://badges.penpow.dev/badges/built-with/markdown/cozy.svg)
-![Contact us on Discord](https://badges.penpow.dev/badges/social/discord-plural/cozy.svg)
+[![Contact us on Discord](https://badges.penpow.dev/badges/social/discord-plural/cozy.svg)](https://discord.gg/GQcwC3FUGA)
