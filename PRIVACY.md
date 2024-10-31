@@ -1,6 +1,6 @@
 # Voltix Privacy Policy
 
-_Last Updated: [Date]_
+_Last Updated: See Git Blame_
 
 Voltix values your privacy. This Privacy Policy outlines how we collect, use, store, and protect your personal information. By using our services, you agree to the terms outlined in this policy.
 
